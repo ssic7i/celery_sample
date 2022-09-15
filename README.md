@@ -13,15 +13,21 @@ password: guest
 
 `celery -A celery_worker worker --loglevel=INFO --purge --pool=solo`
 
-Postgress
+**Postgress**
 
 https://hub.docker.com/_/postgres/
 
 `docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d postgres`
 
+**Migrations**
+
 `alembic init alembic`
 
+`alembic revision -m "first" --autogenerate`
+
 `alembic upgrade head`
+
+**Links**
 
 https://www.psycopg.org/
 
