@@ -1,0 +1,10 @@
+GET http://127.0.0.1:5000/session
+
+###
+POST http://127.0.0.1:5000/session?par1=val1
+
+###
+POST http://127.0.0.1:5000/session?par2=val2&par3=val3
+
+###
+DELETE http://127.0.0.1:5000/session?par1=val1

@@ -41,3 +41,16 @@ https://flask.palletsprojects.com/en/2.2.x/patterns/sqlalchemy/
 
 https://alembic.sqlalchemy.org/en/latest/tutorial.html
 
+**Sessions**
+
+https://flask.palletsprojects.com/en/2.2.x/quickstart/#sessions
+
+https://www.geeksforgeeks.org/how-to-use-flask-session-in-python-flask/
+
+https://flask-session.readthedocs.io/en/latest/
+
+https://testdriven.io/blog/flask-sessions/
+
+https://pythonbasics.org/flask-sessions/
+
+https://www.educba.com/flask-session/
